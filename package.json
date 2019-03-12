@@ -1,0 +1,26 @@
+{
+  "name": "nbytes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianbin/nbytes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianbin/nbytes/issues"
+  },
+  "homepage": "https://github.com/qianbin/nbytes#readme",
+  "dependencies": {
+    "thor-devkit": "^0.8.2"
+  },
+  "devDependencies": {
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.3333"
+  }
+}
