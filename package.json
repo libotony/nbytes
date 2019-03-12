@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "ts-node main.ts",
+    "build": "ts-node main.ts && cp public/index.html dist/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
